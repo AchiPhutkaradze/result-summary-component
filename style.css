@@ -167,7 +167,7 @@ h3{
     line-height: 23px;
     color: #303B59;
 }
-.achi{
+.first-box{
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -223,7 +223,7 @@ h3{
     width: 200px;
     height: 200px;
 }
-.achi{
+.first-box{
     margin: 24px 57px 40px 58px;
     gap: 30px;
 
